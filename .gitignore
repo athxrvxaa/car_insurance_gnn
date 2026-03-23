@@ -1,0 +1,19 @@
+# Dataset and generated model files
+data/*.csv
+data/*.pt
+data/*.json
+data/*.png
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Conda / virtualenv
+.conda/
+env/
+venv/
+
+# VS Code / IDE
+.vscode/
+.idea/
