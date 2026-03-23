@@ -1,4 +1,4 @@
-# 🚗 Car Insurance Fraud Detection using Graph Neural Networks
+#  Car Insurance Fraud Detection using Graph Neural Networks
 
 > MSc Data Science – Major Project | PyTorch Geometric · GraphSAGE · XGBoost
 
@@ -151,6 +151,8 @@ Place `car_insurance_fraud_dataset.csv` in the `data/` folder.
 python graph_construction.py
 python baseline_models.py
 python train_gnn.py --epochs 30 --batch_size 512 --hidden_dim 128 --lr 0.0003 --num_neighbors 20 15
+or
+python train_gnn.py --epochs 1 --batch_size 512 --hidden_dim 128 --lr 0.0002 --num_neighbors 20 155
 ```
 
 **Windows:**
