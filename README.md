@@ -1,4 +1,4 @@
-# 🚗 Car Insurance Fraud Detection using Graph Neural Networks
+#  Car Insurance Fraud Detection using Graph Neural Networks
 
 > MSc Data Science – Major Project | PyTorch Geometric · GraphSAGE · XGBoost
 
