@@ -72,7 +72,7 @@ Edge label:
 ┌──────────────────────────────────────────────────┐
 │              GraphSAGE Encoder                   │
 │  node_feats [N, 9]                               │
-│    → SAGEConv(9 → 128) + ReLU + Dropout(0.3)    │
+│    → SAGEConv(9 → 128) + ReLU + Dropout(0.3)     │
 │    → SAGEConv(128 → 128)                         │
 │  output: node embeddings [N, 128]                │
 └──────────────────────────────────────────────────┘
